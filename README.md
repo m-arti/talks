@@ -1,6 +1,9 @@
 # Talks and demos
 This repository contains a list of talks, demos, webinars etc. I have delivered/presented.
 
+- 14 Sep 2020 — **Exploring Thematic Coherence in Fake News**\
+Paper presentation @ [INRA2020](https://www.ntnu.no/wiki/pages/viewpage.action?pageId=188580623) (held in conjunction with [ECML PKDD 2020](https://ecmlpkdd2020.net/))
+
 - 2 May 2020 — **Computational Thinking with Wolfram Language**\
 Hamoye Computational Thinking Webinar (Web)\
 [`Wolfram Notebook`](https://github.com/m-arti/talks/blob/master/Hamoye%20-%20Computational%20Thinking/Computational%20Thinking.nb) [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/Mm1bjjyR) [`Slides`](https://github.com/m-arti/talks/blob/master/Hamoye%20-%20Computational%20Thinking/Computational%20Thinking.pdf)
